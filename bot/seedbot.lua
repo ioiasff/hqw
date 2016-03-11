@@ -227,29 +227,29 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {152485254,90821805,107746299,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[DEATHBOT© v3.6.1
+D E A T H
 
-https://github.com/SEEDTEAM/TeleSeed
+B O T
 
-Admins
-@Empero [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+List Admins :
+⬇⬇⬇⬇
+@N2012 [sudo]
+@BEhZaD_ZEDX [sudo]
+@A_HelloWorld [sudo]
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+برای خرید گپ به کانال های زیر مراجعه کنید
+⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
+@deathch [فارسی]
+@DEATHen [English]
+⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫
+🔴🔵🔴🔵🔴🔵🔴🔵🔴🔵🔴🔵
+همه کانال های بات
+@DEATHen [English]
+@DEATHCH [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
